@@ -1,0 +1,16 @@
+47f8fc9ceabb02011562d1bdeae86c83 *DESCRIPTION
+fea25c5dc7e9cc501ca19db0d41e5a3f *NAMESPACE
+0eb9a326e987c8b218e3ce12ad46484a *R/aws_cli_install.R
+0af37b67e84c9b95b715aab314b551a9 *R/aws_version.R
+34dd1b45a29181647853740e093fafe0 *R/create_profile.R
+42d7d0082d314e178b35f35a65c784dc *R/delete_profile.R
+9deb1de9905e83469274a013516bdf5c *R/list_profiles.R
+2fd74b050428206eca92b3dfd6f59d2d *R/utils.R
+becb525f1baf3939013215bef8c71940 *README.md
+17d0068f110f5e027ca6b2f97753c293 *man/aws_cli_install.Rd
+f7d2d648670b8bdece8d103a2f1d2508 *man/aws_profile.Rd
+018a6f3d28ff693f9c13d77cca715a8f *man/aws_version.Rd
+54112cc7ac6d41b9d18fa8b59fe679ef *man/delete_profile.Rd
+8e9d18e80455012aa4e67fa306dfc8fb *man/list_profiles.Rd
+a5a7879b41d974a4744cd159e639cd03 *tests/testthat.R
+759afa1580b41a83258de7c9842c60be *tests/testthat/test-profile.R
